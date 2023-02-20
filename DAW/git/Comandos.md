@@ -65,6 +65,7 @@ Podemos primero clonar el proyecto y entonces ya no necesitariamos al hacer **pu
 
 ### 4. Realizar un Pull
 
+Nos descargamos del repositorio las actualizaciones que ha sufrido el mismo
 ```bash
 git pull
 ```

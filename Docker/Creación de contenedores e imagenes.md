@@ -39,15 +39,13 @@ docker commit -m "contenedor con apache" web
 Creo cada contener con un servicio
 dockerfile utiliza el servicio de identacion de *Python*
 
-```bash
-docker 
+[[Nuestros archivos locales en el servidor]]
 ```
-
-
 Creamos el yml donde vamos a configurar
 ```bash
 nano docker-compose.yml
 ```
+
 En el directorio donde esta el fichero yml ponemos:
 ```bash
 docker compose up -d
@@ -55,7 +53,7 @@ docker compose up -d
 
 Para eliminar el contenedor:
 ```bash
-cocker compose down
+docker compose down
 ```
 Va a mostrar lo que vamos haciendo:
 ```bash

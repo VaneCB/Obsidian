@@ -7,6 +7,7 @@ alt+mayus+Q para guardar y subir cambios al servidor
 
 El docker-compose añadiendo mysql y phpmyadmin
 
+[[Creación de contenedores e imagenes]]
 version: '3'
 
 services:
