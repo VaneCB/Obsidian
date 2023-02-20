@@ -1,0 +1,4 @@
+- [x] Programa de Scratch ✅ 2023-02-15
+- [ ] Gráfico del proceso de pedir un recurso en el navegador
+- [ ] Programa de la frutería📅 2023-02-20 
+- [x] Programa de la calculadora de racionales ✅ 2023-02-15
