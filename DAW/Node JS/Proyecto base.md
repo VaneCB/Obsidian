@@ -31,3 +31,7 @@ Instalamos la integración de prettier con eslint
 npm install --save-dev eslint-config-prettier
 ```
 
+Borrar paquetes
+```bash
+npm remove *nombre paquete*
+```
