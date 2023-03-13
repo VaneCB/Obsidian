@@ -22,5 +22,7 @@ VOLUME '/var/www/html'
 RUN echo alias e=\"tail -f /var/log/apache2/error.log\" >> /root/.bashrc  
 RUN apt-get -y install mysql-client mysql-server  
 RUN apt-get -y install phpmyadmin
+
+CMD ["apachectl", "-p", "FOREGROUND"]
 ```
 

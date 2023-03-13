@@ -31,7 +31,7 @@ sudo apt-get install php-apcu php-intl php-mbstring php-xml php-mysql php-calend
 sudo systemctl reload apache2
 ```
 
-Se descargara a la maquina fisica un archivo LocalSettings.php ue habra que mover a la maquina virtual.
+Se descargara a la maquina fisica un archivo LocalSettings.php que habra que mover a la maquina virtual.
 Desde tu maquina fisica
 
 ```bash
